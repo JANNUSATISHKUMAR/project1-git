@@ -1,2 +1,3 @@
 #!/bin/bash
- apt-update
+ yum install httpd -y >> tmp/logs
+
