@@ -1,3 +1,6 @@
 #!/bin/bash
- yum install httpd -y >> tmp/logs
+
+echo "Welcome to shall-scripting"
+
+yum install httpd -y >> tmp/logs
 
